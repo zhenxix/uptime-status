@@ -23,7 +23,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://ip.zhenxi.site/'
+      url: 'https://home.zhenxi.site/'
     },
     {
       text: 'GitHub',
